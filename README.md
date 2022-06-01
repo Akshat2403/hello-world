@@ -5,4 +5,4 @@ I am currently exploring Competitive programming and Web Development as a field 
 
 
 I am interested in open source as it would help me learn a lot of things and help me gain knowledge.
-Also contributing to the open source project which I am interested would be a lot of fun.
+Also contributing to the open source project which I am interested in would be a lot of fun.
